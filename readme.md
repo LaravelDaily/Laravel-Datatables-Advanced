@@ -12,17 +12,25 @@ __Example 1. Row details__
 
 ![Laravel Datatables Demo](http://webcoderpro.com/datatables-advanced-demo.png)
 
+---
+
 __Example 2. Master details__
 
 ![Laravel Datatables Demo](http://webcoderpro.com/datatables-advanced-demo-02.png)
+
+---
 
 __Example 3. Search for each individual columns__ (see on the bottom)
 
 ![Laravel Datatables Demo](http://webcoderpro.com/datatables-advanced-demo-03.png)
 
+---
+
 __Example 4. Row attributes__
 
 ![Laravel Datatables Demo](http://webcoderpro.com/datatables-advanced-demo-04.png)
+
+---
 
 __Example 5. Carbon formatting__ (See updated_at column)
 
