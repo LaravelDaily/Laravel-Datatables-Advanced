@@ -10,31 +10,31 @@ Five examples include:
 
 __Example 1. Row details__
 
-![Laravel Datatables Demo](http://webcoderpro.com/datatables-advanced-demo.png)
+![Laravel Datatables Demo](https://laraveldaily.com/wp-content/uploads/2018/11/datatables-advanced-demo.png)
 
 ---
 
 __Example 2. Master details__
 
-![Laravel Datatables Demo](http://webcoderpro.com/datatables-advanced-demo-02.png)
+![Laravel Datatables Demo](https://laraveldaily.com/wp-content/uploads/2018/11/datatables-advanced-demo-02.png)
 
 ---
 
 __Example 3. Search for each individual columns__ (see on the bottom)
 
-![Laravel Datatables Demo](http://webcoderpro.com/datatables-advanced-demo-03.png)
+![Laravel Datatables Demo](https://laraveldaily.com/wp-content/uploads/2018/11/datatables-advanced-demo-03.png)
 
 ---
 
 __Example 4. Row attributes__
 
-![Laravel Datatables Demo](http://webcoderpro.com/datatables-advanced-demo-04.png)
+![Laravel Datatables Demo](https://laraveldaily.com/wp-content/uploads/2018/11/datatables-advanced-demo-04.png)
 
 ---
 
 __Example 5. Carbon formatting__ (See updated_at column)
 
-![Laravel Datatables Demo](http://webcoderpro.com/datatables-advanced-demo-05.png)
+![Laravel Datatables Demo](https://laraveldaily.com/wp-content/uploads/2018/11/datatables-advanced-demo-05.png)
 
 ---
 
@@ -61,3 +61,4 @@ Please use and re-use however you want.
 - Follow our [Twitter](https://twitter.com/dailylaravel) and [Blog](http://laraveldaily.com/blog)
 - Subscribe to our [newsletter with 20+ Laravel links every Thursday](http://laraveldaily.com/weekly-laravel-newsletter/)
 - Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
+- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
